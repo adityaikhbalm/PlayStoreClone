@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="status">#108049</color>
+    <color name="colorAccent">#ff4081</color>#
+    <color name="background">#ffffff</color>
+    <color name="background2">#eeeeee</color>
+    <color name="background3">#83ffffff</color>
+    <color name="background4">#25000000</color>
+    <color name="status2">#047bb6</color>
+    <color name="top2">#039BE5</color>
+    <color name="status3">#ce0c32</color>
+    <color name="top3">#FF1744</color>
+    <color name="top">#0f9d58</color>
+    <color name="menu">#616161</color>
+</resources>

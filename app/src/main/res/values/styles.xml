@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/top</item>
+        <item name="colorPrimaryDark">@color/status</item>
+        <item name="colorAccent">@color/background</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ToolBarStyle" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@color/menu</item>
+        <item name="android:textColorSecondary">@color/menu</item>
+        <item name="actionMenuTextColor">@color/menu</item>
+    </style>
+
+    <style name="NavigationTabTextAppeareance">
+        <item name="android:textColor">@color/background3</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NavigationTabTextAppeareanceIcon">
+        <item name="android:textColor">@color/menu</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
